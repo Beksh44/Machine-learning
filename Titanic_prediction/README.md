@@ -1,3 +1,7 @@
+👉 [View full prediction notebook (hosted via nbviewer)](
+https://nbviewer.org/github/Beksh44/Machine-learning/blob/main/Titanic_prediction/prediction.ipynb
+)
+
 ### Titanic Passenger Survival Prediction
 
 This project focuses on predicting the survival of Titanic passengers using classification models. Training data is provided in the `data.csv` file, and evaluation data for testing predictions is found in `evaluation.csv`.
