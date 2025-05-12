@@ -1,0 +1,6 @@
+# MacOS metadata
+.DS_Store
+
+# Jupyter auto-saves
+.ipynb_checkpoints
+
